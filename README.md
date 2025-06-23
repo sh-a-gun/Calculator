@@ -18,7 +18,7 @@ A simple and adorable calculator built with HTML, CSS, and JavaScript. It suppor
 
 ## 🌐 Live Demo
 
-👉 [Click here to try it live](https://your-live-demo-link.com)
+👉 [Click here to try it live](https://shagunn29.github.io/Calculator/)
 
 ## 📁 Project Structure
 
