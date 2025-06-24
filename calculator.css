@@ -1,6 +1,6 @@
 body {
   font-family: 'Comic Neue', cursive;
-  font-weight: bold;
+  font-weight: 900;
   background: linear-gradient(135deg, #ffe9f3, #ffe3fb);
   display: flex;
   justify-content: center;
