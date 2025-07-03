@@ -15,11 +15,16 @@ body {
   padding: 30px;
   border-radius: 25px;
   box-shadow: 0 12px 25px rgba(255, 160, 200, 0.4);
-  width: 300px;
+  border: 2px solid #ffb6c1;
+  max-width: 300px;
   text-align: center;
   backdrop-filter: blur(6px);
   transition: transform 0.3s ease;
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
 }
 
 .calculator:hover {
@@ -86,7 +91,7 @@ button:hover {
 
 #clear {
   background-color: #ffe0f0;
-  color: #ff1493;
+  color: #ff70b5;
   border-radius: 20px;
   font-size: 16px;
   padding: 6px 14px;
@@ -101,7 +106,5 @@ button:hover {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #f5f5f5;
-  color: #555;
 }
 
